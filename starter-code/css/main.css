@@ -96,3 +96,7 @@ footer nav a {
 footer p {
     color: silver;
 }
+
+a:hover{
+    color: black;
+}
